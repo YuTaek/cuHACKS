@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoodyToons</string>
+    <string name="title_activity_happy">HappyActivity</string>
+    <string name="title_activity_sad">SadActivity</string>
+    <string name="title_activity_sleepy">SleepyActivity</string>
+    <string name="title_activity_angry">AngryActivity</string>
+    <string name="title_activity_test">TESTActivity</string>
+    <!--<string name="title_activity_play">HappyActivity</string>-->
+    <!--<string name="title_activity_play">SleepyActivity</string>-->
+    <!--<string name="title_activity_play">AngryActivity</string>-->
+    <!--<string name="title_activity_play">SadActivity</string>-->
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="button">Button</string>
+    <string name="play">play</string>
+</resources>
